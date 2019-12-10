@@ -9,25 +9,25 @@
             <!-- 46环境 -->
             <!--<dataSource type="POOLED">-->
             <!--<property name="driver" value="oracle.jdbc.driver.OracleDriver" />-->
-            <!--<property name="url" value="jdbc:oracle:thin:@xxx.xx.xx.x:1521/test20" />-->
+            <!--<property name="url" value="jdbc:oracle:thin:@xxx.xx.xx.x:xxxx/test20" />-->
             <!--<property name="username" value="marketing" />-->
-            <!--<property name="password" value="bestpay" />-->
+            <!--<property name="password" value="xx" />-->
             <!--</dataSource>-->
 			
             <!-- 164回归环境 -->
             <dataSource type="POOLED">
             <property name="driver" value="oracle.jdbc.driver.OracleDriver" />
-            <property name="url" value="jdbc:oracle:thin:@xxx.xx.xx.x:1521/test20" />
+            <property name="url" value="jdbc:oracle:thin:@xxx.xx.xx.x:xxxx/test20" />
             <property name="username" value="marketing_app" />
-            <property name="password" value="bestpay" />
+            <property name="password" value="xx" />
             </dataSource>
 			
 			<!-- 性能环境 -->
             <!--<dataSource type="POOLED">-->
                 <!--<property name="driver" value="oracle.jdbc.driver.OracleDriver" />-->
-                <!--<property name="url" value="jdbc:oracle:thin:@172.17.28.75:1521/test20" />-->
+                <!--<property name="url" value="jdbc:oracle:thin:@xxx.xx.xx.x:xxxx/test20" />-->
                 <!--<property name="username" value="marketing" />-->
-                <!--<property name="password" value="bestpay" />-->
+                <!--<property name="password" value="xx" />-->
             <!--</dataSource>-->
 			
         </environment>
