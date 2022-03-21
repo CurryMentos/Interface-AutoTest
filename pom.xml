@@ -13,7 +13,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <dubbo.version>2.5.4</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <zkclient.version>0.1</zkclient.version>
         <org.springframework.version>4.3.11.RELEASE</org.springframework.version>
     </properties>
